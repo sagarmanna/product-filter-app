@@ -23,4 +23,3 @@ A modern, responsive product filter application built with **React** and **Tailw
 - **Context API** – State management for filters and pagination
 - **Axios** – Fetching products from API
 
-
